@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     void  descargarPDF (){
 
-        String urlADescargar = "https://gfgrobotics.com/wp-content/uploads/2023/04/arana.pdf";
+        String urlADescargar = "https://gfgrobotics.com/wp-content/uploads/2023/04/lanzador-coches.pdf";
 
         ProgressDialog barradeprogreso = new ProgressDialog(this);
         barradeprogreso.setIndeterminate(true);
